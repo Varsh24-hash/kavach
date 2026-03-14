@@ -1,0 +1,11 @@
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBBcd24k48n9NNiCRcbrFlLUXy9QhUW4QE",
+  authDomain: "kavach-clinical.firebaseapp.com",
+  databaseURL: "https://kavach-clinical-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "kavach-clinical",
+  storageBucket: "kavach-clinical.firebasestorage.app",
+  messagingSenderId: "33338623257",
+  appId: "1:33338623257:web:820376f8cb6ede32a43188",
+  measurementId: "G-9W9XT9ZC6C"
+};
